@@ -75,6 +75,6 @@
 # Collected products: Milk, Egg, Wool  
 # ```
 print("Homework ready")
-
+print("change done")
 # %%
 

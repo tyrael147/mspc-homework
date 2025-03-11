@@ -76,5 +76,6 @@
 # ```
 print("Homework ready")
 print("change done")
+print("There was an error")
 # %%
 
